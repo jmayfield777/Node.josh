@@ -4,7 +4,7 @@
 
 This project is a command line application that generates README.md files for the user. The user must have inquirer@8.2.4 installed, and once it is, they will be asked a series of questions that will be used to create the new README.md. The finished document will be complete with a title, description of the project, table of contents, installation, usage, license, conrtributing, tests, and questions sections. 
 
-Screenshot
+[Link to screencastify video](https://drive.google.com/file/d/1b-fnvMFqFg2ZOjUSG63z_RJAZMAW3RoC/view) 
 
 ## Installation
 
