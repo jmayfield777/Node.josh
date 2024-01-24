@@ -53,13 +53,45 @@ function renderLicenseSection(license) {
     ${renderLicenseLink(license)}
     `;
   }
-  
+
 }
 
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(data) {
   return `# ${data.title}
-`
+
+  ${data.license}
+
+  ## Description
+  ${data.description}
+
+  ## Table of Contents
+
+  - [Installation](#Installation)
+  - [Usage](#Usage)
+  - [License](#License)
+  - [Contributing](#Contributing)
+  - [Tests](#Tests)
+  - [Questions](#Questions)
+
+  ## Installation
+  ${data.installation}
+
+  ## Usage
+  ${data.usage}
+
+  ## License
+  This project is licensed under the ${data.license} license.
+
+  ## Contributing
+  ${data.contributing}
+
+  ## Tests
+  ${data.tests}
+
+  ## Questions
+  If you have any questions about the repo, open an issue or contact me directly at josh.mayfield45@gmail.com. You can find more of my work at [jmayfield777](https://github.com/jmayfield777/)
+`;
 }
 
 module.exports = generateMarkdown;
