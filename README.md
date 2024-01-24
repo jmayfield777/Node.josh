@@ -33,13 +33,15 @@ Once you have answered all of the questions, "Successfully created README.md!" w
 
 ## Credits
 
-https://shields.io/badges
+https://shields.io/badges (consulted this code for some help with building out the functions)
 
-https://stackoverflow.com/questions/47263055/writefile-does-not-create-file
+https://stackoverflow.com/questions/47263055/writefile-does-not-create-file (consulted this code for some help with building out the functions)
 
-https://nodejs.org/api/fs.html#fsappendfilepath-data-options-callback
+https://nodejs.org/api/fs.html#fsappendfilepath-data-options-callback (consulted this code for some help with building out the functions)
 
-https://www.digitalocean.com/community/tutorials/nodejs-interactive-command-line-prompts#step-4-using-lists-raw-lists-expandable-lists-checkboxes-passwords-and-editors
+https://www.digitalocean.com/community/tutorials/nodejs-interactive-command-line-prompts#step-4-using-lists-raw-lists-expandable-lists-checkboxes-passwords-and-editors (consulted this code for some help with building out the functions)
+
+https://github.com/lstillwe/readme-generator/blob/main/utils/generateMarkdown.js (consulted this code for some help with building out the functions)
 
 ## License
 
